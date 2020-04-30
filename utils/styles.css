@@ -1,0 +1,21 @@
+body{
+    width: 100%;
+    display:flex;
+}
+.restraunts_page{
+   
+    flex-wrap: wrap;
+    border: 1px solid black;
+    padding: 10px;
+}
+.first, .second, .third, .forth, .five, .six{
+    border: 1px solid black;
+    margin: 15px;
+    
+}
+
+.contact_container{
+    margin: 0px auto;
+    border: 1px solid black;
+    padding:10px;
+}
